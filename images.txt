@@ -4,6 +4,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-notification-manager:v2.3.0
-notification-tenant-sidecar:v3.2.0
+kubesphere/notification-manager:v2.3.0
+kubesphere/notification-tenant-sidecar:v3.2.0
 kubesphere/prometheus-operator:v0.55.1
