@@ -10,3 +10,5 @@ mirrorgooglecontainers/defaultbackend-amd64:1.4
 
 kubesphere/devops-tools:ks-v3.4.1
 kubesphere/kiali-operator:v1.50.1
+
+kubesphere/ks-installer:v3.4.1
