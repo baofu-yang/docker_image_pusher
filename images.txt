@@ -22,3 +22,5 @@ kubesphere/notification-manager-operator:v2.3.0
 docker.io/calico/node:v3.26.1
 kubesphere/kube-state-metrics:v2.6.0
 kubesphere/ks-controller-manager:v3.4.1
+prom/alertmanager:v0.23.0
+prom/prometheus:v2.39.1
