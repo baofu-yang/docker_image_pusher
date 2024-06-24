@@ -19,3 +19,4 @@ kubesphere/s2ioperator:v3.2.1
 kubesphere/kube-rbac-proxy:v0.11.0
 kubesphere/notification-manager-operator:v2.3.0
 
+docker.io/calico/node:v3.26.1
