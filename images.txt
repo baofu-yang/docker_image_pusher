@@ -5,4 +5,4 @@ nginx
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-
+registry.cn-hangzhou.aliyuncs.com/zhangwanfu/ks-apiserver:v3.4.1
