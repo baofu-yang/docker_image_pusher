@@ -6,3 +6,4 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 
 registry.cn-hangzhou.aliyuncs.com/zhangwanfu/ks-apiserver:v3.4.1
+minio/minio:RELEASE.2019-08-07T01-59-21Z
