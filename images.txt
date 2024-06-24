@@ -4,16 +4,6 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-registry.cn-hangzhou.aliyuncs.com/zhangwanfu/ks-apiserver:v3.4.1
-minio/minio:RELEASE.2019-08-07T01-59-21Z
-csiplugin/snapshot-controller:v4.0.0
-osixia/openldap:1.3.0
-haproxy:2.0.25-alpine
-redis:5.0.14-alpine
-minio/mc:RELEASE.2019-08-07T23-14-43Z
-kubesphere/fluentbit-operator:v0.14.0
-opensearchproject/opensearch:2.6.0
-kubesphere/ks-console:v3.4.1
-kubesphere/openpitrix-jobs:v3.3.2
-quay.io/argoproj/argocd:v2.3.3
-quay.io/argoproj/argocd-applicationset:v0.4.1
+istio/pilot:1.14.6
+redis:6.2.6-alpine
+mirrorgooglecontainers/defaultbackend-amd64:1.4
