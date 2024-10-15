@@ -4,10 +4,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-kubesphere/notification-manager:v2.3.0
-kubesphere/notification-tenant-sidecar:v3.2.0
-kubesphere/prometheus-operator:v0.55.1
-nginx
-
-kubesphere/prometheus-config-reloader:v0.55.1
-mysql:5.7.35
+wangyanglinux/myapp:v1.0
+wangyanglinux/myapp:v2.0
